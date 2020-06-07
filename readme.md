@@ -7,3 +7,5 @@ This is a list of katas to improve your CSS skills. If you have a specific CSS d
 1. Make a blue layout
 
 <img src="katas/1.blue-layout.png" width="50%" alt="first kata" />
+
+> See the [solution](solutions/1.blue-layout)
